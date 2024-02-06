@@ -8,3 +8,10 @@
 * Max Humanity: 99 **Humanities** on character.
 * Weapon Swap: Opens a menu that allows user to change **right hand weapon**.
 * 99 Titanite: Gives user 99 **Titanite Shards**.
+
+## How to use
+
+1. Open "Dark Souls Remastered".
+2. Load into the game by picking a character. **NOTE:** there is no way to currently revert the changes of the tool.
+3. Run DSTinker.exe
+4. To exit the program, enter the number 0.
